@@ -1,1 +1,1 @@
-const app = "I don't do much."
+earnconst app = "I don't do much."
